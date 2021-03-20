@@ -5,5 +5,7 @@ Este blog fue diseñado para:
 *Crecer como profesional en DataCience
 *Reforzar mis conocimientos de GitHUB y git
 *Es un oink
+*Incluye historias porcinas
+*Disponible pa los puercos
 
 ##### 😏😏😏😏😏
